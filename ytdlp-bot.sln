@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ytdlp-bot", "ytdlp-bot\ytdlp-bot.csproj", "{2397D861-4323-4732-A5B7-5423BCC9640C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2397D861-4323-4732-A5B7-5423BCC9640C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2397D861-4323-4732-A5B7-5423BCC9640C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2397D861-4323-4732-A5B7-5423BCC9640C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2397D861-4323-4732-A5B7-5423BCC9640C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {263EF105-3389-4996-827D-573DDA863F8B}
+	EndGlobalSection
+EndGlobal
